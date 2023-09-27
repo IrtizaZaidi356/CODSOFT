@@ -1,6 +1,9 @@
 # CodSoft | Data Science | Internship
 
 ---
+
+Welcome to the Titanic Survival Prediction Project Presentation. This project utilizes machine learning to forecast passenger survival aboard the Titanic. With a dataset encompassing critical passenger details, we embark on a journey to explore, analyze, and predict survival outcomes, demonstrating the power of data science and predictive modeling in a real-world scenario.
+
 ## Problem Statement
 ## Task 1 | TITANIC SURVIVAL PREDICTION
 
@@ -13,9 +16,6 @@
     class, fare, cabin, and whether or not they survived.
 
 ---
-
-
-Welcome to the Titanic Survival Prediction Project Presentation. This project utilizes machine learning to forecast passenger survival aboard the Titanic. With a dataset encompassing critical passenger details, we embark on a journey to explore, analyze, and predict survival outcomes, demonstrating the power of data science and predictive modeling in a real-world scenario.
 
 ### Introduction:
 Our Titanic Survival Prediction project employs machine learning to predict passenger survival on the Titanic. This beginner-level project utilizes the Titanic dataset, encompassing details such as age, gender, ticket class, fare, cabin, and survival status.
@@ -47,4 +47,4 @@ Future work may involve exploring other machine learning algorithms, fine-tuning
 
 
 
-Thank you for your attention. This project offers a practical example of data analysis and machine learning in action.
+Thank you for your attention. This project offers a practical example of data analysis, data science and machine learning in action.
