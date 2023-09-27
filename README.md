@@ -42,8 +42,9 @@ We used logistic regression to build our predictive model. After splitting the d
 ### Conclusion:
 In conclusion, our Titanic Survival Prediction project demonstrated the application of machine learning and data analysis. We visualized key insights, preprocessed the data, and successfully predicted passenger survival. The model's accuracy reflects its effectiveness in binary classification.
 
-### uture Directions:
+### Future Directions:
 Future work may involve exploring other machine learning algorithms, fine-tuning hyperparameters, and expanding feature engineering.
 
-### Thank You:
+
+
 Thank you for your attention. This project offers a practical example of data analysis and machine learning in action.
