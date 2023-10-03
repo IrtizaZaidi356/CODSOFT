@@ -103,6 +103,41 @@ The Movie Rating Prediction project showcases the capabilities of Python in data
 
 **Thank you for joining us on this journey through movie rating prediction with Python!**
 
+---
+
+## **Problem Statement | Task 3 | IRIS Flower Classification**
+
+   - The Iris flower dataset consists of three species: setosa, versicolor,and virginica. These species can be distinguished based on their measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species. Your objective is to train a machine learning model that can learn fromthese measurements and accurately classify the Iris flowers into their respective species.
+
+   - Use the Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
+
+### **Introduction:**
+The project title is "IRIS Flower Classification with Python." The objective is to build a machine learning model that accurately classifies Iris flowers into their respective species based on sepal and petal measurements. We'll use various Python libraries to explore the Iris dataset, visualize the data, preprocess it, train a logistic regression model, evaluate its performance, and make predictions.
+
+### **Dataset Exploration:**
+We start by loading the Iris dataset and conducting preliminary exploratory data analysis. We check the dataset's dimensions, information, and summary statistics to understand its structure. 
+
+### **Data Visualization:**
+Data visualization is crucial in understanding the relationships within the dataset. We use seaborn and matplotlib to create pair plots, count plots, histograms, and other visualizations to reveal patterns and insights. The pair plot shows how different species are distributed based on sepal and petal measurements.
+
+### **Data Pre-processing:**
+Before training the model, we preprocess the data. We split the dataset into features (X) and target (y). Then, we split it into training and testing sets to assess the model's performance.
+
+### **Model Training and Evaluation:**
+We select a logistic regression model for this classification task. We train the model on the training data and evaluate its performance using metrics like accuracy, confusion matrix, and classification report. The model shows high accuracy in classifying Iris species.
+
+### **Making Predictions:**
+To demonstrate the model's utility, we make predictions on a sample data point with sepal and petal measurements. The model successfully predicts the species of the given data.
+
+### **Future Directions:**
+In future iterations of this project, we can explore other classification algorithms, perform hyperparameter tuning, and implement cross-validation for more robust model evaluation. Additionally, deploying the model as a web application or integrating it into a larger ecosystem can be considered.
+
+### **Conclusion:**
+In conclusion, the Iris Flower Classification project showcases the power of Python libraries for data analysis, visualization, and machine learning. The model accurately classifies Iris flowers into species based on their measurements, demonstrating the practicality of machine learning in real-world classification tasks.
+
+### **Thank You:**
+We would like to express our gratitude to the Python community, open-source contributors, and data scientists who have made this project possible. Special thanks to the creators of the Iris dataset for providing valuable data for educational and research purposes.
+
 
 
 
