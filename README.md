@@ -137,12 +137,6 @@ In future iterations of this project, we can explore other classification algori
 ### **Conclusion:**
 In conclusion, the Iris Flower Classification project showcases the power of Python libraries for data analysis, visualization, and machine learning. The model accurately classifies Iris flowers into species based on their measurements, demonstrating the practicality of machine learning in real-world classification tasks.
 
-### **Thank You:**
-We would like to express our gratitude to the Python community, open-source contributors, and data scientists who have made this project possible. Special thanks to the creators of the Iris dataset for providing valuable data for educational and research purposes.
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 30b18270713d60e484afdb5eae0746ed06ef62da
-
+**Thank you for joining us on this journey through IRIS Flower Classification with Python!**
 
