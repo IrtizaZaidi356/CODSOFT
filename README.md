@@ -111,7 +111,9 @@ The Movie Rating Prediction project showcases the capabilities of Python in data
 
    - Use the Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
 
-### **Introduction:**
+---
+
+## **Task 3: Title: IRIS Flower Classification with Python**
 The project title is "IRIS Flower Classification with Python." The objective is to build a machine learning model that accurately classifies Iris flowers into their respective species based on sepal and petal measurements. We'll use various Python libraries to explore the Iris dataset, visualize the data, preprocess it, train a logistic regression model, evaluate its performance, and make predictions.
 
 ### **Dataset Exploration:**
