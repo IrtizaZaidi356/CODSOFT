@@ -137,5 +137,10 @@ In conclusion, the Iris Flower Classification project showcases the power of Pyt
 
 ### **Thank You:**
 We would like to express our gratitude to the Python community, open-source contributors, and data scientists who have made this project possible. Special thanks to the creators of the Iris dataset for providing valuable data for educational and research purposes.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 30b18270713d60e484afdb5eae0746ed06ef62da
 
 
