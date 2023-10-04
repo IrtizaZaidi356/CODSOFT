@@ -135,12 +135,55 @@ In future iterations of this project, we can explore other classification algori
 ### **Conclusion:**
 In conclusion, the Iris Flower Classification project showcases the power of Python libraries for data analysis, visualization, and machine learning. The model accurately classifies Iris flowers into species based on their measurements, demonstrating the practicality of machine learning in real-world classification tasks.
 
-### **Thank You:**
-We would like to express our gratitude to the Python community, open-source contributors, and data scientists who have made this project possible. Special thanks to the creators of the Iris dataset for providing valuable data for educational and research purposes.
-<<<<<<< HEAD
-=======
+**Thank you for joining us on this journey through movie rating prediction with Python!**
+
+---
+
+## **Problem Statement | Task 4 | SALES PREDICTION USING PYTHON**
+
+  - Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
+  
+  - In businesses that offer products or services, the role of a Data Scientist is crucial for predicting future sales. They utilize machine learning techniques in Python to analyze and interpret data, allowing them to make informed decisions regarding advertising costs. By leveraging these predictions, businesses can optimize their advertising strategies and maximize sales potential. Let's embark on the journey of sales prediction using machine learning in Python.
 
 
->>>>>>> 30b18270713d60e484afdb5eae0746ed06ef62da
+## **Task 04: Sales Prediction Using Python**
 
 
+Sales prediction is a critical task for businesses, allowing them to make informed decisions regarding advertising expenditure and strategies. In this project, we leverage Python and machine learning techniques to predict sales based on advertising spending on TV, radio, and newspapers. This project demonstrates how data analysis and linear regression can optimize advertising budgets.
+
+### **Python Libraries Used:**
+
+1) numpy: For numerical operations and calculations.
+2) pandas: For data manipulation and analysis.
+3) matplotlib: For data visualization.
+4) seaborn: For advanced data visualization.
+5) sklearn: For machine learning tasks, including model training and evaluation.
+
+### **Data Exploration:**
+ - The project begins with data exploration, where we load and analyze the dataset.
+ - We examine the dataset's structure, summary statistics, and relationships between variables.
+ - Data visualization is used to gain insights into the count of sales, average sales per advertising channel, and more.
+
+### **Correlation Analysis:**
+ - We employ a heatmap to visualize the correlation matrix of the dataset.
+ - This analysis reveals how different advertising channels correlate with sales.
+ - It guides us in understanding which advertising mediums have the most impact on sales.
+
+### **Data Preprocessing:**
+ - Data preprocessing involves handling missing values and preparing data for machine learning.
+ - In this project, there are no missing values to handle, so we proceed with feature selection.
+
+### **Model Training and Evaluation:**
+ - We split the dataset into features (advertising expenditures) and the target variable (sales).
+ - A Linear Regression model is selected for sales prediction.
+ - The model is trained on the training data and evaluated using Mean Squared Error and R-squared.
+ - A scatter plot illustrates the relationship between actual sales and predicted sales.
+
+### **Sales Prediction:**
+ - The trained model is now ready for making predictions.
+ - Users can input new advertising spending scenarios, and the model predicts sales based on the provided inputs.
+
+### **Conclusion:**
+Sales prediction using Python and machine learning allows businesses to optimize their advertising strategies. By understanding the impact of different advertising channels on sales, companies can make data-driven decisions to maximize their revenue. This project showcases the power of Python libraries for data analysis and prediction in the business domain.
+
+**Thank you for joining us on this journey through Sales Prediction with Python!**
