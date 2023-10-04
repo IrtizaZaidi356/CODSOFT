@@ -111,7 +111,9 @@ The Movie Rating Prediction project showcases the capabilities of Python in data
 
    - Use the Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
 
-### **Introduction:**
+---
+
+## **Task 3: Title: IRIS Flower Classification with Python**
 The project title is "IRIS Flower Classification with Python." The objective is to build a machine learning model that accurately classifies Iris flowers into their respective species based on sepal and petal measurements. We'll use various Python libraries to explore the Iris dataset, visualize the data, preprocess it, train a logistic regression model, evaluate its performance, and make predictions.
 
 ### **Dataset Exploration:**
@@ -135,6 +137,7 @@ In future iterations of this project, we can explore other classification algori
 ### **Conclusion:**
 In conclusion, the Iris Flower Classification project showcases the power of Python libraries for data analysis, visualization, and machine learning. The model accurately classifies Iris flowers into species based on their measurements, demonstrating the practicality of machine learning in real-world classification tasks.
 
+<<<<<<< HEAD
 **Thank you for joining us on this journey through movie rating prediction with Python!**
 
 ---
@@ -147,7 +150,10 @@ In conclusion, the Iris Flower Classification project showcases the power of Pyt
 
 
 ## **Task 04: Sales Prediction Using Python**
+=======
+>>>>>>> 05b1dd69a167e4567419f326b78b5de49373829e
 
+**Thank you for joining us on this journey through IRIS Flower Classification with Python!**
 
 Sales prediction is a critical task for businesses, allowing them to make informed decisions regarding advertising expenditure and strategies. In this project, we leverage Python and machine learning techniques to predict sales based on advertising spending on TV, radio, and newspapers. This project demonstrates how data analysis and linear regression can optimize advertising budgets.
 
