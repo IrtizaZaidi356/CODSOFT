@@ -142,6 +142,7 @@ In conclusion, the Iris Flower Classification project showcases the power of Pyt
 
 ---
 
+
 ## **Problem Statement | Task 4 | SALES PREDICTION USING PYTHON**
 
   - Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
@@ -189,3 +190,59 @@ Sales prediction is a critical task for businesses, allowing them to make inform
 Sales prediction using Python and machine learning allows businesses to optimize their advertising strategies. By understanding the impact of different advertising channels on sales, companies can make data-driven decisions to maximize their revenue. This project showcases the power of Python libraries for data analysis and prediction in the business domain.
 
 **Thank you for joining us on this journey through Sales Prediction with Python!**
+
+
+---
+
+
+## **Problem Statement | Task 05 | Credit Card Fraud Detection USING PYTHON**
+
+ - Build a machine learning model to identify fraudulent credit card transactions.
+ - Preprocess and normalize the transaction data, handle class
+ imbalance issues, and split the dataset into training and testing sets.
+ - Train a classification algorithm, such as logistic regression or randomforests, to classify transactions as fraudulent or genuine.
+ - Evaluate the model's performance using metrics like precision, recall, and F1-score, and consider techniques like oversampling or
+ undersampling for improving results.
+
+---
+
+## **Task 05: Credit Card Fraud Detection Using Python**
+
+
+Credit card fraud is a significant concern in the financial industry, leading to substantial financial losses for individuals and organizations. Machine learning can play a crucial role in identifying fraudulent transactions. This project aims to build a machine learning model to detect credit card fraud using Python.
+
+### **Importing Necessary Libraries:** 
+We start by importing essential libraries such as NumPy, Pandas, Matplotlib, Seaborn, and scikit-learn. These libraries provide tools for data analysis, visualization, and machine learning.
+
+### **Loading the Dataset**: 
+We load the Credit Card Fraud Detection dataset (creditcard.csv) using Pandas. The dataset contains transaction data, including features like time, amount, and class (0 for genuine transactions and 1 for fraudulent transactions).
+
+### **Exploratory Data Analysis (EDA):** 
+We perform EDA to understand the dataset better.
+ - We display basic dataset information, including data types and the number of rows and columns.
+ - We provide a statistical summary of the dataset.
+ - We check for missing values and visualize them using a heatmap.
+ - We create a scatter plot to visualize the relationship between time, amount, and fraud class.
+
+### **Data Preprocessing:** 
+Data preprocessing is essential to prepare the dataset for machine learning.
+ - We normalize and scale the 'Amount' and 'Time' features using StandardScaler.
+ - We split the data into features (X) and the target variable (y) where 'Class' is the target.
+ - The dataset is further split into training and testing sets (80% training and 20% testing) using train_test_split.
+
+### **Model Training and Evaluation:**
+ - We train a Logistic Regression model on the training data.
+ - The trained model is used to make predictions on the testing data.
+ - We evaluate the model's performance using various metrics:
+    - **Accuracy:** Measures the overall correctness of predictions.
+    - **Precision:** Measures the proportion of true positive predictions among all positive predictions.
+    - **Recall:** Measures the proportion of true positive predictions among all actual positives.
+    - **F1 Score:** Combines precision and recall to provide a balanced measure.
+    - **Confusion Matrix:** Shows the counts of true positive, true negative, false positive, and false negative predictions.
+ - We provide a detailed classification report with precision, recall, and F1-score for both genuine and fraudulent transactions.
+
+### **Conclusion:**
+Credit Card Fraud Detection is a critical application of machine learning, helping financial institutions protect their customers from fraud. This Python project showcases the entire process, from data exploration and preprocessing to model training and evaluation. Building robust fraud detection models is vital for maintaining trust and security in financial transactions.
+
+**Thank you for joining us on this journey through Credit Card Fraud Detection with Python!**
+
